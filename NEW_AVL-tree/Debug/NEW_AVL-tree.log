@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\san4e\Desktop\AVL-дерево\NEW_AVL-tree\NEW_AVL-tree\Source.cpp(205,1): warning C4005: INFINITY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : см. предыдущее определение "INFINITY"
+C:\Users\san4e\Desktop\AVL-дерево\NEW_AVL-tree\NEW_AVL-tree\Source.cpp(248,34): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  NEW_AVL-tree.vcxproj -> C:\Users\san4e\Desktop\AVL-дерево\NEW_AVL-tree\Debug\NEW_AVL-tree.exe
